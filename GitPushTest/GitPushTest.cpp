@@ -2,10 +2,10 @@
 
 int main()
 {
-    int score = 0;
+    int score2 = 0;
     std::cout << "Enter score: \n";
-    std::cin >> score;
-    std::cout << "Player score: " << score << "\n";
+    std::cin >> score2;
+    std::cout << "Player score: " << score2 << "\n";
 }
 
 
